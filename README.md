@@ -1,7 +1,5 @@
 # Portfolio Construction and Visualization
 
-As part of my graduate research, I needed to quickly build and visualize portfolio performance in the context of stress events. Portfolio.py (not included) allows for easy portfolio construction, optimization, and visualization. The jupyter notebook shows a quick demonstration of what I have worked on so far. As a work in progress, there are lots of room for improvement and I will continue to add to this project.
+As part of my graduate research, I needed a way to quickly build and visualize portfolio performance in the context of stress events. To do so, I created Portfolio.py (not included), which allows for easy and flexible portfolio construction, optimization, and visualization. The jupyter notebook shows a quick demonstration of the code. As a work in progress, there are lots of room for improvement and I will continue to add to this project.
 
-### To do:
-1. Add portfolio metrics like tracking error, information ratio, etc.
-2. Upper right plot is missing visualization. Possible options are explored in jupyter notebook.
+### What I have so far:
