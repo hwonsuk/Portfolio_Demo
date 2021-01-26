@@ -42,3 +42,6 @@ Another possible visualization for the empty upper right plot is to include some
 <p align='center'>
 <img src = 'https://user-images.githubusercontent.com/60523841/105906139-4d165b80-5ff1-11eb-8006-d05a15a80241.png' width='300'>
 </p>
+
+### Takeaway
+As different users may have varying preferences for what they want to see regarding portfolio performance, it may be helpful to provide some way for users to pick and choose the types of visualizations they want to use. I am working on an interactive dashboard with a broader array of performance metrics and visualization options. 
