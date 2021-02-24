@@ -1,6 +1,6 @@
 # Portfolio Construction and Visualization
 
-As part of my graduate research, I needed a way to quickly build and visualize portfolio performance in the context of stress events. To do so, I created Portfolio.py (not included), which allows for easy and flexible portfolio construction, optimization, and visualization. The jupyter notebook shows a quick demonstration of portfolio visualization. As a work in progress, there are lots of room for improvement and I will continue to add to this project (including an interactive component). 
+As part of my graduate research, I needed a way to quickly build and visualize portfolio performance in the context of stress events. To do so, I prepared python modules, which allow for easy and flexible portfolio construction, optimization, and visualization. The jupyter notebook shows a quick demonstration of portfolio construction, visualization, and analysis. As a work in progress, there are lots of room for improvement and I will continue to add to this project (including an interactive component and additional performance metrics). 
 
 ### What I have so far:
 The upper left plot shows the cumulative returns for portfolio(s) and the benchmark. The upper right plot is currently empty (possible visualizations are included below). The lower left plot shows drawdowns and the lower right depicts the signal-to-noise ratio.
@@ -43,6 +43,3 @@ Another option is to include something that shows the return/risk for portfolios
 <p align='center'>
 <img src = 'https://user-images.githubusercontent.com/60523841/105906139-4d165b80-5ff1-11eb-8006-d05a15a80241.png' width='300'>
 </p>
-
-### Takeaway
-As different users may have varying preferences for how they would like to see portfolio performance, it may be helpful to provide some way for users to pick and choose the types of visualizations they wish to include. I am working on an interactive dashboard with a broader array of performance metrics and visualization options. 
