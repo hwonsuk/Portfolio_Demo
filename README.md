@@ -22,7 +22,7 @@ The plots below visualize portfolio composition. The plot on the left shows top 
 <img src = 'https://user-images.githubusercontent.com/60523841/109074859-5107cd00-76c6-11eb-8671-90f1c4c229c2.png' width='800'>
 </p>
 
-It could be informative to check the performance of top weighted assets. The plot below shows cumulative returns for top n weighted stocks in two sample portfolios (Cen. Vol and Per. Vol). This plot could be improved to reflect allocation size with linewidth.
+It could also be informative to check the performance of top weighted assets. The plot below shows cumulative returns for top n weighted stocks in two sample portfolios (Cen. Vol and Per. Vol). This plot could be improved to reflect allocation size with linewidth.
 <p align='center'>
 <img src = 'https://user-images.githubusercontent.com/60523841/109074865-51a06380-76c6-11eb-940a-80e5df737ccc.png' width='800'>
 </p>
@@ -36,3 +36,6 @@ Lastly, mean or median sector metrics like return or volatility could be helpful
 <p align='center'>
 <img src = 'https://user-images.githubusercontent.com/60523841/109074861-51a06380-76c6-11eb-9d00-2b05a9c323ba.png' width='800'>
 </p>
+
+### Conclusion
+My graduate research tested applications of social network analysis in the portfolio construction and allocation process. By having quick ways to visualize and measure the performance of portfolios and their underlying assets, I was able to focus on the theory and practical applications of my work. The portfolio selection process is something I find deeply interesting and hope to work on in the future.
