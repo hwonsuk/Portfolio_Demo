@@ -7,7 +7,7 @@ The table below includes performance metrics like annualized return, volatility,
 <img width="250" alt="Table" src="https://user-images.githubusercontent.com/60523841/109075042-97f5c280-76c6-11eb-9647-a343ade8fe97.png">
 </p>
 
-The plots below visualize portfolio performance. The upper left plot shows cumulative returns for portfolios and a benchmark if provided. The upper right plot shows annualized return over volatility for portfolios with markersize corresponding to sharpe ratio. The lower left plot depicts drawdowns with maximum drawdown marked. The lower right includes a heatmap of correlations of returns.
+The plots below visualize portfolio performance. The upper left plot shows cumulative returns for portfolios and a benchmark if provided. The upper right plot shows annualized return over volatility with markersize corresponding to sharpe ratio. The lower left plot depicts drawdowns with maximum drawdown marked. The lower right includes a heatmap of correlations of returns.
 <p align='center'>
 <img src = 'https://user-images.githubusercontent.com/60523841/109074863-51a06380-76c6-11eb-8920-63aa9bc723d2.png' width='800'>
 </p>
@@ -38,4 +38,4 @@ Lastly, mean or median sector metrics like return or volatility could be helpful
 </p>
 
 ### Conclusion
-My graduate research tested applications of social network analysis in the portfolio construction and allocation process. By having quick ways to visualize and measure the performance of portfolios and their underlying assets, I was able to focus on the theory and practical applications of my work. The portfolio selection process is something I find deeply interesting and hope to work on in the future.
+My graduate research tested applications of social network analysis in the portfolio construction and allocation process. By having quick ways to visualize and measure the performance of portfolios and their underlying assets, I was able to focus on the practical applications of my work. The portfolio selection process is something I find deeply interesting and hope to work on in the future.
